@@ -9,3 +9,6 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: http://replica1:8002/eureka/,http://replica2:8003/eureka/ #同时注册到两个注册中心
+
+
+abc

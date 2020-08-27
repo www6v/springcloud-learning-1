@@ -11,3 +11,5 @@ eureka:
       defaultZone: http://replica2:8003/eureka/ #注册到另一个Eureka注册中心
     fetch-registry: true
     register-with-eureka: true
+
+abc
